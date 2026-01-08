@@ -1,0 +1,16 @@
+payload:
+  - "+.huoys.com"
+  - "dev-idn.rydgames.com"
+  - "dev-hall-1.rycgames.com"
+  - "+.ferry"
+  - "+.redis"
+  - "172.13.9.31"
+  - "172.13.4.73"
+  - "172.13.0.0/16"
+  - "172.13.0.0/12"
+  - "172.13.0.0/24"
+  - "+.jd.com"
+  - "+.azure.com"
+  - '91.108.56.119'
+  - "8.210.52.41"
+  - "+.slack.com"

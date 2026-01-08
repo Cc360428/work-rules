@@ -1,0 +1,6 @@
+payload:
+  - "idn-web.oss-ap-southeast-5.aliyuncs.com"
+  - "+.neopartyworld.com"
+  - "+.ml-game.com"
+  - "+.royalqqid.com"
+  - "+.linkedin.com"

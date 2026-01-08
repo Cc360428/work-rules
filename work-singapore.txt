@@ -1,0 +1,8 @@
+payload:
+  - "+.x.com"
+  - "+.twitter.com"
+  - "gemini.google.com"
+  - "+.roobet.com"
+  - "+.sportsbet.io"
+  - "+.chatgpt.com"
+  - "+.openai.com"
