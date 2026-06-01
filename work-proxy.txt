@@ -2,3 +2,5 @@ payload:
   - "ghv2.rydgames.com"
   - "ack-1.calmgamingcove8.com"
   - "idn-web.oss-ap-southeast-5.aliyuncs.com"
+  - "repo.rdmirrorservice.com"
+  - "gemini.google.com"

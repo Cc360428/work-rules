@@ -1,0 +1,9 @@
+payload:
+  - "+.x.com"
+  - "+.twitter.com"
+  - "+.roobet.com"
+  - "+.sportsbet.io"
+  - "+.chatgpt.com"
+  - "+.openai.com"
+  - "web.topbos.com"
+  - "+.anthropic.com"
