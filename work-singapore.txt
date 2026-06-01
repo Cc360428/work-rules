@@ -1,5 +1,1 @@
 payload:
-  - "+.anthropic.com"
-  - "+.openai.com"
-  - "+.claude.com"
-  - "+.claude.ai

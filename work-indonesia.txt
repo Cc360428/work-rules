@@ -7,3 +7,5 @@ payload:
   - "+.openai.com"
   - "web.topbos.com"
   - "+.anthropic.com"
+  - "+.claude.com"
+  - "+.claude.ai
