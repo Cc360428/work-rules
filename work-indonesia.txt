@@ -8,4 +8,4 @@ payload:
   - "web.topbos.com"
   - "+.anthropic.com"
   - "+.claude.com"
-  - "+.claude.ai
+  - "+.claude.ai"

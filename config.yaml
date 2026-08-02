@@ -113,6 +113,7 @@ proxies:
 rules:
   # 白名单
   - RULE-SET,work-singapore,Ind-1
+  - RULE-SET,work-indonesia,Ind-1
   - RULE-SET,work-brail,brail-1
   - RULE-SET,work-hk,hk-2
   - GEOIP,LAN,DIRECT
@@ -150,35 +151,42 @@ rule-providers:
   work-brail:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/Cc360428/work-rules/refs/heads/main/work-brail.txt"
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-brail.txt"
     path: ./ruleset/work-brail.yaml
     interval: 86400
     
   work-direct:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/Cc360428/work-rules/refs/heads/main/work-direct.txt"
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-direct.txt"
     path: ./ruleset/work-direct.yaml
     interval: 86400
     
   work-hk:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/Cc360428/work-rules/refs/heads/main/work-hk.txt"
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-hk.txt"
     path: ./ruleset/work-hk.yaml
+    interval: 86400
+
+  work-indonesia:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-indonesia.txt"
+    path: ./ruleset/work-indonesia.yaml
     interval: 86400
     
   work-proxy:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/Cc360428/work-rules/refs/heads/main/work-proxy.txt"
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-proxy.txt"
     path: ./ruleset/work-proxy.yaml
     interval: 86400
     
   work-singapore:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/Cc360428/work-rules/refs/heads/main/work-singapore.txt"
+    url: "https://raw.githubusercontent.com/Cc360428/work-rules/main/work-singapore.txt"
     path: ./ruleset/work-singapore.yaml
     interval: 86400
     
