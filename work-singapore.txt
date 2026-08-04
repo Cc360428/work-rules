@@ -1,2 +1,3 @@
 payload:
   - "+.roobet.com"
+  - "+.gameh5pro.com"
