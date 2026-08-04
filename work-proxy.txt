@@ -4,3 +4,5 @@ payload:
   - "idn-web.oss-ap-southeast-5.aliyuncs.com"
   - "repo.rdmirrorservice.com"
   - "gemini.google.com"
+  - "+.withgoogle.com"
+  - "+.slack.com"
